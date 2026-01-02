@@ -3,8 +3,12 @@
 </p>
 
 <p align="center">
+Xander Robbins
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Math+%7C+CS+%7C+Econ+@+University+of+Florida;Quantitative+Researcher+%26+Developer;Python+%2B+C%2B%2B+%7C+Finance+%2B+Algorithms;Exploring+combinatorics+%26+number+theory;Always+learning%2C+always+building&font=Fira%20Code&center=true&width=500&height=50&color=0021F5&vCenter=true&pause=1000&size=20" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Math+%7C+CS+%7C+Econ+@+University+of+Florida;Quantitative+Researcher+%26+Developer;Python+%2B+C%2B%2B+%7C+Finance+%2B+Algorithms;Exploring+combinatorics+%26+number+theory;Always+learning%2C+always+building&font=Fira%20Code&center=true&width=500&height=50&color=00ffff&vCenter=true&pause=1000&size=20" /></a>
 </p>
 
 ---
