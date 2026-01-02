@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hello, I'm Alexander Robbins
 
-<!--
-**XanderRobbins/XanderRobbins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Math • Computer Science • Economics** @ University of Florida (Class of 2027)  
+📊 **Quantitative Researcher** | 🐍 **Python & C++ Developer** | 📈 **Finance Enthusiast**
 
-Here are some ideas to get you started:
+Welcome to my GitHub! Here you'll find projects spanning algorithmic trading, mathematical research, data analysis, and software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 What I'm Working On
+
+- **Quantitative Finance**: Developing trading algorithms and financial models at a quantitative hedge fund
+- **Math Research**: Exploring combinatorics, number theory, and integer sequences (Fibonacci & beyond)
+- **Data Science**: Statistical modeling, machine learning, and large-scale data analysis
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Libraries & Tools:**  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+**Coursework:**  
+Real Analysis • Abstract Algebra • Data Structures & Algorithms • Statistical Methods • Linear Algebra
+
+---
+
+## 📊 GitHub Stats
+
+![Alexander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@ufl.edu)
+
+💼 Open to research collaborations, internships, and interesting projects!
+
+---
+
+⭐ **Fun Fact:** I'm graduating early in 2027 and love diving deep into complex problems — whether it's proving theorems, optimizing algorithms, or building trading systems.
