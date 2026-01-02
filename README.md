@@ -1,6 +1,4 @@
-<p align="center">
-  <b style="font-size: 36px;">Xander Robbins</b>
-</p>
+<h1 align="center"><b>Xander Robbins</b></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
