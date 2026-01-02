@@ -1,7 +1,3 @@
-  <a href="https://github.com/XanderRobbins">
-    <img src="https://user-images.githubusercontent.com/YourUserID/YourImageID.png" alt="Alexander Robbins" /></a>
-</p>
-
 <p align="center">
 Xander Robbins
 </p>
