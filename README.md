@@ -1,5 +1,5 @@
 <p align="center">
- **Xander Robbins** 
+  <b style="font-size: 36px;">Xander Robbins</b>
 </p>
 
 <p align="center">
