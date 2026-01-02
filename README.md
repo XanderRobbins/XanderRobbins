@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 🎓 **University of Florida** • Math, Computer Science, Economics (Class of 2027)  
 📊 **Quantitative Researcher** at a hedge fund  
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -33,7 +33,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=XanderRobbins&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -49,7 +49,7 @@
 
 ---
 
-## 🔬 Current Focus
+## Current Focus
 
 - 📈 **Quantitative Finance**: Developing trading algorithms and financial models
 - 🧮 **Math Research**: Combinatorics, number theory, Fibonacci sequences
@@ -58,13 +58,13 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/alexander-robbins-a1086a248/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@ufl.edu">
+  <a href="mailto:robbins.a@ufl.edu">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
