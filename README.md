@@ -10,7 +10,7 @@
 ## About Me
 
 🎓 **University of Florida** • Math, Computer Science, Economics (Class of 2027)  
-📊 **Quantitative Researcher** at a hedge fund  
+📊 **Quantitative Researcher** at AlgoGators hedge fund  
 🧮 Passionate about **algorithmic trading**, **mathematical research**, and **data science**  
 💻 Building with **Python** and **C++** daily
 
@@ -73,8 +73,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=XanderRobbins&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
-<p align="center">
-  ⭐️ From <a href="https://github.com/XanderRobbins">Alexander Robbins</a>
 </p>
