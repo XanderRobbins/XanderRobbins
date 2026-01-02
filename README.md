@@ -1,7 +1,5 @@
 <p align="center">
-## **Xander Robbins**
-## 🚀 About Me
-  
+ **Xander Robbins** 
 </p>
 
 <p align="center">
