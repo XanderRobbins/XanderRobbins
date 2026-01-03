@@ -63,6 +63,8 @@
 
 ---
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=XanderRobbins&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
