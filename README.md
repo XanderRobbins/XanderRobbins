@@ -56,5 +56,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=XanderRobbins&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=XanderRobbins&color=blueviolet&style=flat-square&label=Profile+Views+1000" alt="Profile Views" />
 </p>
