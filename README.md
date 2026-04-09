@@ -1,75 +1,44 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?lines=quant+finance+%7C+math+%7C+econ+%7C+cs;monte+carlo+%7C+vol+surfaces+%7C+pairs+trading;university+of+florida+%E2%80%94+dec+%2726;targeting+nyc+%E2%80%94+full+time&font=JetBrains+Mono&center=true&width=560&height=44&color=C6613F&vCenter=true&pause=1200&size=16" />
-
-</div>
-
+<h1 align="center"><b>Xander Robbins</b></h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Math+%7C+CS+%7C+Econ+@+University+of+Florida;Quantitative+Researcher+%26+Developer;Python+%2B+C%2B%2B+%7C+Finance+%2B+Algorithms;Exploring+combinatorics+%26+number+theory;Always+learning%2C+always+building&font=Fira%20Code&center=true&width=500&height=50&color=00ffff&vCenter=true&pause=1000&size=20" /></a>
+</p>
 ---
-
-```
-$ whoami
-> Xander Robbins
-> Mathematics + Economics · Minor: Computer Science
-> University of Florida — graduating Dec 2026 @ 19
-> Senior Macro Analyst @ AlgoGators (only student-run quant fund in the US)
-> Senior Lecturer @ QuantED — Options, Futures & Other Derivatives
-> Head TA — Discrete Structures, UF
-```
-
+## About Me
+🎓 **University of Florida** • Math, Computer Science, Economics (Class of 2027)  
+📊 **Quantitative Researcher** at AlgoGators hedge fund  
+🧮 Passionate about **algorithmic trading**, **mathematical research**, and **data science**  
+💻 Building with **Python** and **C++** daily
 ---
-
-### `./projects --production`
-
-| system | type | stack |
-|---|---|---|
-| Universal Pairs Trading System | mean reversion · cointegration | Python · C++ |
-| Arbitrage-Free Volatility Surface | stat arb · derivatives | Python · NumPy |
-| Monte Carlo Options Pricer (`lfmc`) | ASVR variance reduction · QMC | C++ · MCQMC 2026 target |
-| Quantitative Finance Hackathon | event organizer · late Oct | — |
-
+## Tech Stack
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+**Tools & Libraries:**  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ---
-
-### `./skills --list`
-
-```python
-languages  = ["C++", "Python", "SQL", "R"]
-quant      = ["Monte Carlo", "QMC/RQMC", "variance reduction",
-              "volatility modeling", "pairs trading", "fixed income"]
-math       = ["complex analysis", "real analysis", "probability theory",
-              "combinatorics", "numerical methods"]
-tools      = ["NumPy", "Pandas", "Git", "Claude Code", "LaTeX"]
-```
-
+## Current Focus
+- 📈 **Quantitative Finance**: Developing trading algorithms and financial models
+- 🧮 **Math Research**: Combinatorics, number theory, Fibonacci sequences
+- 💻 **Software Engineering**: Data structures, algorithms, optimization
+- 📊 **Statistics**: Statistical methods, probability theory, data analysis
 ---
-
-### `./research --status`
-
-```
-[TARGETING]  Monte Carlo Methods for Financial Derivatives
-             ASVR algorithm — novel over Neufeld et al. 2014
-             venue: MCQMC 2026 / Journal of Computational Finance
-
-[IN PROG ]   Volatility Surface Dynamics & Calibration
-             cross-regime stability · ML-augmented
-
-[COMPLETE]   Pairs Trading: Statistical Foundations
-             cointegration tests · mean reversion detection
-```
-
+## Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/xander-robbins">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:robbins.a@ufl.edu">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 ---
-
-### `./connect`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-xander--robbins-C6613F?style=flat-square&logo=linkedin&logoColor=white&labelColor=282a3a)](https://www.linkedin.com/in/xander-robbins)
-[![Email](https://img.shields.io/badge/email-xanderrobbins10%40gmail.com-C6613F?style=flat-square&logo=gmail&logoColor=white&labelColor=282a3a)](mailto:xanderrobbins10@gmail.com)
-[![Portfolio](https://img.shields.io/badge/portfolio-live-C6613F?style=flat-square&logo=vercel&logoColor=white&labelColor=282a3a)](#)
-
-</div>
-
----
-
-<div align="center">
-<sub><code>available · jan 2027 · nyc · full time</code></sub>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=XanderRobbins&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
