@@ -8,10 +8,10 @@
 
 ## About Me
 
-🎓 **University of Florida** • Math, Computer Science, Economics (Class of 2027)  
-📊 **Quantitative Researcher** at AlgoGators hedge fund  
-🧮 Passionate about **algorithmic trading**, **mathematical research**, and **data science**  
-💻 Building with **Python** and **C++** daily
+ **University of Florida** • Math, Computer Science, Economics (Class of 2027)  
+ **Quantitative Researcher** at AlgoGators hedge fund  
+ Passionate about **algorithmic trading**, **mathematical research**, and **data science**  
+ Building with **Python** and **C++** daily
 
 ---
 
@@ -34,10 +34,10 @@
 
 ## Current Focus
 
-- 📈 **Quantitative Finance**: Developing trading algorithms and financial models
-- 🧮 **Math Research**: Combinatorics, number theory, Fibonacci sequences
-- 💻 **Software Engineering**: Data structures, algorithms, optimization
-- 📊 **Statistics**: Statistical methods, probability theory, data analysis
+-  **Quantitative Finance**: Developing trading algorithms and financial models
+-  **Math Research**: Combinatorics, number theory, Fibonacci sequences
+-  **Software Engineering**: Data structures, algorithms, optimization
+-  **Statistics**: Statistical methods, probability theory, data analysis
 
 ---
 
